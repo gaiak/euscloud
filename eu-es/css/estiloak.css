@@ -1,0 +1,48 @@
+body {
+  background: #cccccc;
+}
+#hasiera {
+  background: #ffffff;
+  font-size: 16px;
+  margin: 10px auto;
+  text-align: left;
+  width: 75%;
+  padding:15px;
+  border-radius: 6px;
+}
+#garapena {
+  background: #ffffff;
+  font-size: 16px;
+  margin: 10px auto;
+  text-align: left;
+  width: 75%;
+  padding:15px;
+  border-radius: 6px;
+}
+#bukaera {
+  background: #ffffff;
+  font-size: 16px;
+  margin: 10px auto;
+  text-align: left;
+  width: 75%;
+  padding:15px;
+  border-radius: 6px;
+}
+.azpimarra {
+  background-color : orange;
+  padding:2px;
+  margin:1px;
+  border-radius: 4px;
+}
+.erantzuna {
+  background-color: yellow;
+  padding:2px;
+  margin:1px;
+  border-radius: 4px;
+}
+.gomendioak {
+  background-color: #cccccc;
+  padding:2px 4px;
+  margin:1px;
+  border-radius: 4px;
+}
